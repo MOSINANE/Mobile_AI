@@ -1,0 +1,3 @@
+0 mountain
+1 trees
+2 cars

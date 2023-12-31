@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "382650068012",
+    "project_id": "mobileai-3b687",
+    "storage_bucket": "mobileai-3b687.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382650068012:android:8c7d3b7c10e2bf6cbe3589",
+        "android_client_info": {
+          "package_name": "com.example.recognizeme_ia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmmVl_gvJ0UhOZkENH8kKfJECpSiAGCs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
